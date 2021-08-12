@@ -4,8 +4,8 @@ Summary:    Extended DBus for Qt
 Version:    0.0.2
 Release:    1
 Group:      Development/Libraries
-License:    LGPLv2.1
-URL:        https://github.com/nemomobile/qtdbusextended
+License:    LGPLv2
+URL:        https://github.com/sailfishos/qtdbusextended
 Source0:    %{name}-%{version}.tar.bz2
 Requires(post): /sbin/ldconfig
 Requires(postun): /sbin/ldconfig
